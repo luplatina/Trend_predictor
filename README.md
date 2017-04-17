@@ -5,7 +5,7 @@ Time series regression model, Use ARIMA model to predict the diabetes clinical t
 This project to use time series analysis tool ARIMA to investigate the start dates of clinical trials targeting diabetes from 
 clinicaltrial.gov. The main function is to forecast the diabetes clinical trials that going to launch in the near future.
 
-## procedure
+## Procedure
 The general procedure of this project includes:
 1. quick explore the diabetes clinicaltrial data. use pandas dataframe catologued clinical trial starting dates.
 2. test the stantionary of the time series data; use auto correlation and partial auto correlation to evaluate AR, AM setting.
